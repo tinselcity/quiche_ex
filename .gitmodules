@@ -1,0 +1,3 @@
+[submodule "sub/quiche"]
+	path = sub/quiche
+	url = https://quiche.googlesource.com/quiche
